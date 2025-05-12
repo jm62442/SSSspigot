@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Launcher-Agent-Class: com.ssspigot.clip.Agent
+Built-By: runner
+Multi-Release: true
+Created-By: Apache Maven 3.8.1
+Build-Jdk: 1.8.0_302
+Main-Class: com.ssspigot.clip.Paperclip
+
